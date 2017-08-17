@@ -1,0 +1,6 @@
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\bin\Debug\RSAUnitTestProject.dll
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\bin\Debug\RSAUnitTestProject.pdb
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\obj\Debug\RSAUnitTestProject.csprojResolveAssemblyReference.cache
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\obj\Debug\RSAUnitTestProject.dll
+F:\JwtTest\UnitTestProject1\RSAUnitTestProject\obj\Debug\RSAUnitTestProject.pdb

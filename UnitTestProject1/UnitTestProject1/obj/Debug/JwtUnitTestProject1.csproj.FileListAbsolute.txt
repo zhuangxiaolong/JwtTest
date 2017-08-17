@@ -1,0 +1,8 @@
+F:\JwtTest\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\JwtTest\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\JwtTest\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\JwtTest\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+F:\JwtTest\UnitTestProject1\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+F:\JwtTest\UnitTestProject1\UnitTestProject1\obj\Debug\JwtUnitTestProject1.csprojResolveAssemblyReference.cache
+F:\JwtTest\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\JwtTest\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
